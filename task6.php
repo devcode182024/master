@@ -1,2 +1,2 @@
 <?php
-echo 'Task 6';
+echo 'Task 6 up t7';
